@@ -1,10 +1,11 @@
 # 📁 Mi Portfolio
 
-Proyectos destacados de mi formación y práctica personal en IA y desarrollo.
+Proyectos destacados de mi formación en Inteligencia Artificial (UNR)
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|-------------|
-| [API de películas](https://github.com/accursoagus/api-peliculas) | API REST con FastAPI que permite consultar y filtrar datos desde un archivo JSON. | Python, FastAPI |
-| [Análisis de datos 144](https://github.com/accursoagus/analisis-144) | Exploración y visualización de datos sobre llamadas al 144. | Python, Pandas, Matplotlib |
-| [Script automatizador](https://github.com/accursoagus/auto-scripts) | Automatización de tareas repetitivas mediante scripts Bash y Python. | Bash, Python |
-| [TP de visión por computadora](https://github.com/accursoagus/pdi-facultad) | Procesamiento y mejora de imágenes. | Python, OpenCV |
+| [Análisis de llamados al 144](https://github.com/accursoagus/analisis-llamados-144) | Limpieza, análisis y visualización de datos sobre violencia de género en Argentina. | Python, Pandas, Matplotlib |
+| [Accidentes de tránsito en Santa Fe](https://github.com/accursoagus/analisis-accidentes-santafe) | Análisis exploratorio de datos de accidentes con Pandas y gráficos. | Python, Pandas |
+| [API de películas](https://github.com/accursoagus/api-peliculas-fastapi) | API REST con endpoints para consultar, filtrar y modificar información de películas. | Python, FastAPI |
+| [Búsqueda y optimización](https://github.com/accursoagus/busqueda-y-optimizacion) | Implementación de algoritmos de búsqueda (DFS, BFS, Hill Climbing, Tabu Search). | Python |
+| [Datawarehouse + Power BI](https://github.com/accursoagus/datawarehouse-powerbi) | Integración de múltiples fuentes, modelado dimensional y reportes visuales. | SQL Server, Power BI |
